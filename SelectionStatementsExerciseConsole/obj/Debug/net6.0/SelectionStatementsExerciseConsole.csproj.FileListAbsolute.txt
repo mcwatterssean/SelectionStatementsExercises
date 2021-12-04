@@ -1,0 +1,15 @@
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\bin\Debug\net6.0\SelectionStatementsExerciseConsole.exe
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\bin\Debug\net6.0\SelectionStatementsExerciseConsole.deps.json
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\bin\Debug\net6.0\SelectionStatementsExerciseConsole.runtimeconfig.json
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\bin\Debug\net6.0\SelectionStatementsExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\bin\Debug\net6.0\ref\SelectionStatementsExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\bin\Debug\net6.0\SelectionStatementsExerciseConsole.pdb
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\obj\Debug\net6.0\SelectionStatementsExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\obj\Debug\net6.0\SelectionStatementsExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\obj\Debug\net6.0\SelectionStatementsExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\obj\Debug\net6.0\SelectionStatementsExerciseConsole.AssemblyInfo.cs
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\obj\Debug\net6.0\SelectionStatementsExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\obj\Debug\net6.0\SelectionStatementsExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\obj\Debug\net6.0\ref\SelectionStatementsExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\obj\Debug\net6.0\SelectionStatementsExerciseConsole.pdb
+C:\Users\mcwat\Desktop\Repos\SelectionStatementsExercise\SelectionStatementsExerciseConsole\obj\Debug\net6.0\SelectionStatementsExerciseConsole.genruntimeconfig.cache
